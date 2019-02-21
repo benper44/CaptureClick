@@ -26,7 +26,7 @@ To stop CaptureClick you have to hold your right mouse button until a popup wind
 
 # Special Thanks
 
-- Gallery Technet Microsoft for Take-Screebshot function (https://gallery.technet.microsoft.com/scriptcenter/eeff544a-f690-4f6b-a586-11eea6fc5eb8)
+- Gallery Technet Microsoft for Take-Screenshot function (https://gallery.technet.microsoft.com/scriptcenter/eeff544a-f690-4f6b-a586-11eea6fc5eb8)
 
 # License
 
